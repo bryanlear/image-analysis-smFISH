@@ -251,7 +251,7 @@ python run_pipeline.py --list                   # See all available stages
 <h2>Individual Contributions</h2>
 
 <ul>
-<li><strong>John Lee Arboleda</strong>: Responsible for the entire pipeline development, including data preprocessing, segmentation, model validation and generalization, GIF creation, blob detection for spot counting, light intensity quantification, and statistical analysis. The details of this work are recorded in the journal-style sections of this README file.</li>
+<li><strong>Bryan LA</strong>: Responsible for the entire pipeline development, including data preprocessing, segmentation, model validation and generalization, GIF creation, blob detection for spot counting, light intensity quantification, and statistical analysis. The details of this work are recorded in the journal-style sections of this README file.</li>
 </ul>
 
 <h2>Resources and References</h2>
